@@ -1,3 +1,6 @@
 git add .
 git commit -m""
 git push origin main
+git branch-a//show all branch
+git fetch -a
+git checkout branchname
